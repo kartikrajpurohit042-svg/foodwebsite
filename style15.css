@@ -297,7 +297,7 @@
 
 /* Contact Us Section Styling */
 .contact-us {
-    background-image: url('https://images.unsplash.com/photo-1523475496153-3d6ccf8f04a3');
+    background-image: url('img.f/karl-abuid-SHcTF5umqIg-unsplash.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -344,6 +344,7 @@
 .contact-us button {
     padding: 15px;
     border-radius: 8px;
+    margin-left: 35px;
     border: none;
     background-color: #ff7043; /* Warm orange button color */
     color: white;
@@ -365,3 +366,4 @@
         font-size: 1.2em;
     }
 }
+
